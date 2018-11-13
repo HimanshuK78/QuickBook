@@ -1,0 +1,18 @@
+{
+  "title": "Quick Book",
+
+  "description": "Quickbook Component",
+  "docsUrl": "",
+  "actions": {
+    "soapservice": {
+      "title": "Quick Book Soap Service",
+      "main": "./lib/actions/Soap.js",
+      "description": "Quick Book Soap Service",
+      "fields": {},
+      "metadata": {
+        "in": {},
+        "out": {}
+      }
+    }
+  }
+}

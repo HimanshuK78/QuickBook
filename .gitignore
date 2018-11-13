@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/node_modules/d/.lint
+/node_modules/es5-ext/array/#/compact.js
+/node_modules
